@@ -1,13 +1,9 @@
 
 <h1 align="center">Hi there 👋, I'm Mahilaeshwar</h1>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Data Engineering Projects focusing on Data warehousing, Data Modeling and Cloud Data Migration**
 
-- 🌱 I’m currently learning **Data Studio and other BI tools**
-
-- 💬 Ask me about **Python, Linux, SQL, Hive, Data analytics, ML model building**
-
-- 📫 How to reach me 
+- 💬 Ask me about **Python, Linux, SQL, Hive, Data analytics, GCP, BigQuery, Apache Airflow, Data Engineering, Data Modeling ML model building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
