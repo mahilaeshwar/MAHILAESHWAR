@@ -2,11 +2,14 @@
 🔭 I’m currently working on Data Engineering Projects focusing on Data warehousing, Data Modeling and Cloud Data Migration<br><br>💬 Ask me about Python, Linux, SQL, Hive, Data analytics, GCP, BigQuery, Apache Airflow, Data Engineering, Data Modeling and ML model building
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahilaeshwar-m) 
 
 # 💻 Tech Stack:
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+# My Badges:
+[My Credly public link](https://www.credly.com/users/mahilaeshwar-m/badges)
+
 <!--START_SECTION:badges-->
 [![Professional Data Engineer Certification](https://images.credly.com/size/110x110/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png)](http://www.credly.com/badges/4ba26dba-e279-4c4d-aa82-c6308834cf7a "Professional Data Engineer Certification")
 [![Orchestrate PaLM LLM solutions with LangChain Skill Badge](https://images.credly.com/size/110x110/images/008980dd-0667-46df-85e1-4f8e2d2c9428/image.png)](http://www.credly.com/badges/a8c73d60-b0ae-44b9-9f82-1ea908d46405 "Orchestrate PaLM LLM solutions with LangChain Skill Badge")
