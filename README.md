@@ -8,7 +8,12 @@
 # 💻 Tech Stack:
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 # My Badges:
-[My Credly public link](https://www.credly.com/users/mahilaeshwar-m/badges)
+<!--
+[My Credly public link](https://www.credly.com/users/mahilaeshwar-m/badges 
+[![My Credly public link](https://img.shields.io/badge/Credly-white?logo=credly)](https://www.credly.com/users/mahilaeshwar-m) 
+-->
+[![My Credly public link](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white&logoSize=auto)](https://www.credly.com/users/mahilaeshwar-m)
+
 
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/abfa8ffe-19ef-4477-b405-238ae6fcb573 "Introduction to Cybersecurity")
