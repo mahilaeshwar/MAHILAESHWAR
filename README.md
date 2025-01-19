@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering Projects focusing on Data warehousing, Data Modeling and Cloud Data Migration<br><br>💬 Ask me about Python, Linux, SQL, Hive, Data analytics, GCP, BigQuery, Apache Airflow, Data Engineering, Data Modeling and ML model building
+🔭 I’m currently working on Data Engineering Projects focusing on Data warehousing, Data Modeling and Cloud Data Migration<br><br>💬 Ask me about Python, Linux, SQL, Hive, PySpark, Data analytics, GCP, BigQuery, Apache Airflow, Data Engineering, Data Modeling and ML model building
 
 
 # 🌐 Socials:
